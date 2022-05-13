@@ -2,12 +2,16 @@
 
 <h5>Sidney Cesar</h5>
 
-<h5>De 02 a 8 de Maio de 2022 </h5>
-
-Será criada uma aplicação web completa em React para web e mobile
+Aplicação web responsiva para envio de feedbacks
+https://rocketseat-nlw-2022.vercel.app/
 
 <br />
 
+<div style="display:flex;width:100%; gap:10px">
 <img width="250" height="150" src='https://conexaopanvel.faccat.br/wp-content/uploads/2020/05/react-js-800x450.png' />
 <img width="250" height="150" src='https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg' />
 <img width="250" height="150" src='https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1' />
+<img width="250" height="150" src='https://miro.medium.com/max/1400/0*z58cqZWxu2_4q5-g.jpg' />
+<img width="250" height="150" src='https://miro.medium.com/max/1280/1*gIAzcGWffRV7bNSCU6NEUw.png' />
+<div />
+  
