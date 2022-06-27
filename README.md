@@ -1,4 +1,4 @@
-<h3>Semana NLW RocketSeat - Return</h3>
+<h3>Treinamento - Semana NLW RocketSeat | Maio 2022</h3>
 
 <h5>Sidney Cesar</h5>
 
